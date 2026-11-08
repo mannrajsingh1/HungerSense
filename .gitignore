@@ -1,15 +1,17 @@
 # Python
 __pycache__/
 *.py[cod]
+
+# Virtual environments
 .venv/
 venv/
 
 # Environment variables and secrets
 .env
 
-# Data
-data/*.csv
+# Datasets and generated data
+data/
 
-# IDE
+# IDE and system files
 .vscode/
 .DS_Store
